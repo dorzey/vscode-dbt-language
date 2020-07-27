@@ -1,6 +1,6 @@
 # vscode-sqlfluff
 
-![.github/workflows/ci.yml](https://https://github.com/dorzey/vscode-dbt-language/workflows/.github/workflows/ci.yml/badge.svg)
+![.github/workflows/ci.yml](https://github.com/dorzey/vscode-dbt-language/workflows/.github/workflows/ci.yml/badge.svg)
 
 An extension that offers some [DBT](https://www.getdbt.com/) language features.
 
