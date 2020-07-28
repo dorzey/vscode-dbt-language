@@ -2,7 +2,7 @@
 
 ![.github/workflows/ci.yml](https://github.com/dorzey/vscode-dbt-language/workflows/.github/workflows/ci.yml/badge.svg)
 
-An extension that offers some [DBT](https://www.getdbt.com/) language features.
+An extension that offers some [DBT](https://www.getdbt.com/) language features. For some features to work you will have to have run DBT compile as this generates the manifest.
 
 Implemented features:
 
