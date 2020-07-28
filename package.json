@@ -20,7 +20,9 @@
 		"Other"
 	],
 	"keywords": [
-		"dbt", "sql", "jinja-sql"
+		"dbt",
+		"sql",
+		"jinja-sql"
 	],
 	"activationEvents": [
 		"onLanguage:jinja-sql"
